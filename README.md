@@ -3,7 +3,7 @@ Automatic guitar player that presses chords and strums to any song on the intern
 
 ## Personal Statement
 
-It all started when our team member (definitely not Parth), let's call him Marth, had a crush on a girl who was a big fan of guitar music. He decided to impress her by playing her favorite song on the guitar, but there was one problem - Jake had never played the guitar before.
+It all started when our team member (definitely not Parth), let's call him Marth, had a crush on a girl who was a big fan of guitar music. He decided to impress her by playing her favorite song on the guitar, but there was one problem - Marth had never played the guitar before.
 
 Determined to win her over, Marth spent weeks practicing the song, but he just couldn't get the hang of it. He even resorted to using YouTube tutorials, but it was no use. He was about to give up when he had a crazy idea - what if he could make the guitar play the song for him?
 
