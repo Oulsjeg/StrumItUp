@@ -1,5 +1,5 @@
 # StrumItUp
-Automatic guitar player that presses chords and strums to any song on the internet
+Automatic guitar player that presses chords and strums to any song on the internet!
 
 ## Personal Statement
 
